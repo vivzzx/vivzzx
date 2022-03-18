@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vivzzx.github.io/](https://vivzzx.github.io/)
 
-- 📫 How to reach me **galativiv@gmail.com**
+- 📫 You can reach me at **galativiv@gmail.com**
 
 - ⚡ Fun fact: **I'm a fan of old games 🕹️**
 
