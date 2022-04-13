@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivzz" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="vivzz" /></a>
 <a href="https://linkedin.com/in/viviany-galati" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="viviany-galati" /></a>
+<a href="https://www.hackerrank.com/vivyyy" target="blank"><img src="img\HackerRank_Icon48x48.png" alt="HackerRank" /></a>
 <a href="https://instagram.com/vivzx" target="blank"><img  src="https://skillicons.dev/icons?i=instagram" alt="vivzx" /></a>
+<a href="https://twitter.com/vivzz" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="vivzz" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
