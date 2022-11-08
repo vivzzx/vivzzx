@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at 42 Barcelona
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C Language**
 
 - 👨‍💻 All of my projects are available at [https://vivzzx.github.io/](https://vivzzx.github.io/)
 
